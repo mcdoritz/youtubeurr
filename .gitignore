@@ -7,6 +7,11 @@
 /public/bundles/
 /var/
 /vendor/
+/var/log/
+/var/cache/
+/var/sessions/
+/public/build/
+/dist/
 ###< symfony/framework-bundle ###
 
 ###> phpunit/phpunit ###
